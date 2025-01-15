@@ -80,7 +80,7 @@
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.0",
-    "electron": "^30.1.2",
+    "electron": "^31.7.7",
     "esbuild": "^0.18.11",
     "eslint": "^8.55.0",
     "eslint-plugin-internal-playwright": "file:utils/eslint-plugin-internal-playwright",

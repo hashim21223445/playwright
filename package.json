@@ -80,7 +80,7 @@
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.0",
-    "electron": "^30.1.2",
+    "electron": "^35.7.5",
     "esbuild": "^0.18.11",
     "eslint": "^8.55.0",
     "eslint-plugin-internal-playwright": "file:utils/eslint-plugin-internal-playwright",
@@ -95,7 +95,7 @@
     "react-dom": "^18.1.0",
     "ssim.js": "^3.5.0",
     "typescript": "^5.5.3",
-    "vite": "^5.0.13",
+    "vite": "^5.4.20",
     "ws": "^8.17.1",
     "xml2js": "^0.5.0",
     "yaml": "^2.2.2"

@@ -50,7 +50,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@actions/core": "^1.10.0",
+    "@actions/core": "^2.0.0",
     "@babel/cli": "^7.23.4",
     "@babel/code-frame": "^7.23.5",
     "@babel/plugin-transform-class-properties": "^7.23.3",
@@ -82,7 +82,7 @@
     "dotenv": "^16.0.0",
     "electron": "^30.1.2",
     "esbuild": "^0.18.11",
-    "eslint": "^8.55.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-internal-playwright": "file:utils/eslint-plugin-internal-playwright",
     "eslint-plugin-notice": "^0.9.10",
     "eslint-plugin-react": "^7.33.2",
